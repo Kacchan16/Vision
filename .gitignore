@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/
+
+# Large data
+*.bag
+*.mp4
+*.avi
+*.mov
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+*.zarr
+
+# RealSense / generated data
+data/
+datasets/
+recordings/
+
+# Temporary files
+tmp/
+temp/

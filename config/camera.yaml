@@ -1,0 +1,29 @@
+cameras:
+  - id: cam0
+    serial: "218622278533"
+
+    color:
+      width: 640
+      height: 480
+      fps: 30
+      format: bgr8
+
+    depth:
+      width: 640
+      height: 480
+      fps: 30
+      format: z16
+  # - id: cam1
+  #   serial: "839420183745"
+
+  #   color:
+  #     width: 1280
+  #     height: 720
+  #     fps: 30
+  #     format: bgr8
+
+  #   depth:
+  #     width: 1280
+  #     height: 720
+  #     fps: 30
+  #     format: z16

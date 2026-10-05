@@ -1,0 +1,10 @@
+namespace Vision;
+
+table FrameMetadata {
+    frame_id:ulong;
+    timestamp:double;
+    width:uint;
+    height:uint;
+}
+
+root_type FrameMetadata;
